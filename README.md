@@ -9,6 +9,7 @@ Get Release: [Download](https://github.com/VikramadityaDev/Viki-2-OpenAI/release
 
 ### Show some :heart: and star the repo.
 
+
 ## Features
 
 - Natural language understanding.
@@ -18,6 +19,11 @@ Get Release: [Download](https://github.com/VikramadityaDev/Viki-2-OpenAI/release
 - Open-source.
 - High quality images.
 - Text to image.
+
+## Replacing API Key
+
+You need to use your own OpenAI API key. Just replace the OPEN_AI_API_KEY_HERE found in /lib/utils/constants.dart, with your own key.
+
 
 ## Prerequisites
 
