@@ -3,6 +3,8 @@
 A Chatbot chat app built using the Flutter framework and OpenAI's ChatGPT-3 and Dall.E 2 language model.
 </p>
 
+Get Release: [Download](https://github.com/VikramadityaDev/Viki-2-OpenAI/releases/tag/v1.0.0)
+
 ### Show some :heart: and star the repo.
 
 ## Features
