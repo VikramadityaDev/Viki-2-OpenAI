@@ -268,7 +268,7 @@ class _ChatPageState extends State<ChatPage> {
         child: ListView(
           shrinkWrap: true,
           scrollDirection: Axis.vertical,
-          physics: const ScrollPhysics(),
+          physics: const BouncingScrollPhysics(),
           children: [
             chats(),
           ],
