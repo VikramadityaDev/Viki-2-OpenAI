@@ -245,6 +245,7 @@ class _ChatPageState extends State<ChatPage> {
   Widget chats() {
     return ListView.builder(
       shrinkWrap: true,
+      physics: const NeverScrollableScrollPhysics(),
       scrollDirection: Axis.vertical,
       itemCount: chatList.length,
       itemBuilder: (context, index) => _itemChat(
@@ -265,7 +266,9 @@ class _ChatPageState extends State<ChatPage> {
           color: Colors.white,
         ),
         child: ListView(
-          physics: const BouncingScrollPhysics(),
+          shrinkWrap: true,
+          scrollDirection: Axis.vertical,
+          physics: const ScrollPhysics(),
           children: [
             chats(),
           ],
