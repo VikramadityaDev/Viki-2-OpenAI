@@ -23,7 +23,8 @@ Get Release: [Download](https://github.com/VikramadityaDev/Viki-2-OpenAI/release
 ## Replacing API Key
 
 ```
-You need to use your own OpenAI API key. Just replace the OPEN_AI_API_KEY_HERE found in /lib/utils/constants.dart, with your own key.
+You need to use your own OpenAI API key. 
+Just replace the OPEN_AI_API_KEY_HERE found in /lib/utils/constants.dart, with your own key.
 ```
 
 ## Prerequisites
