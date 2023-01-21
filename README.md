@@ -20,6 +20,7 @@ Get Release: [Download](https://github.com/VikramadityaDev/Viki-2-OpenAI/release
 - High quality images.
 - Text to image.
 - Light and Dark Mode Enabled.
+- Image Downloadable.
 
 ## Replacing API Key
 
